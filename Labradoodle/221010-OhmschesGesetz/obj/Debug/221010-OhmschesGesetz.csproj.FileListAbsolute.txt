@@ -1,0 +1,7 @@
+C:\VS\SEW-Niklas\Labradoodle\221010-OhmschesGesetz\obj\Debug\221010-OhmschesGesetz.csproj.AssemblyReference.cache
+C:\VS\SEW-Niklas\Labradoodle\221010-OhmschesGesetz\obj\Debug\221010-OhmschesGesetz.csproj.CoreCompileInputs.cache
+C:\VS\SEW-Niklas\Labradoodle\221010-OhmschesGesetz\bin\Debug\221010-OhmschesGesetz.exe.config
+C:\VS\SEW-Niklas\Labradoodle\221010-OhmschesGesetz\bin\Debug\221010-OhmschesGesetz.exe
+C:\VS\SEW-Niklas\Labradoodle\221010-OhmschesGesetz\bin\Debug\221010-OhmschesGesetz.pdb
+C:\VS\SEW-Niklas\Labradoodle\221010-OhmschesGesetz\obj\Debug\221010-OhmschesGesetz.exe
+C:\VS\SEW-Niklas\Labradoodle\221010-OhmschesGesetz\obj\Debug\221010-OhmschesGesetz.pdb

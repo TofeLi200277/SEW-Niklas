@@ -7,7 +7,7 @@
     <ProjectGuid>{D925A4FE-007E-4523-AAFD-74B3DD01F9DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_221010_OhmschesGesetz</RootNamespace>
-    <AssemblyName>_221010_OhmschesGesetz</AssemblyName>
+    <AssemblyName>221010-OhmschesGesetz</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
